@@ -8,9 +8,10 @@ export const MainWrapper = styled.div`
   justify-content: center;
   align-items: center;
   ${(props) =>
-    props.day
+    props.day === true
       ? `background-color: #fbab7e;
-background-image: linear-gradient(180deg, #fbab7e 0%, #f7ce68 100%);`
+background-image: linear-gradient(180deg, #fbab7e 0%, #f7ce68 100%);
+color:black;`
       : `background: rgb(1,22,46);
 background: linear-gradient(180deg, rgba(1,22,46,1) 0%, rgba(1,66,109,1) 100%);
 color:white;`}
