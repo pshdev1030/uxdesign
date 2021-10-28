@@ -1,11 +1,13 @@
 import React from 'react';
-import Module from '@/Component/Module';
-
+import GlobalStyle from '@/GlobalStyle';
+import { RecoilRoot } from 'recoil';
+import Main from '@/Page/Main';
 function App() {
   return (
-    <div>
-      <Module></Module>
-    </div>
+    <RecoilRoot>
+      <GlobalStyle />
+      <Main />
+    </RecoilRoot>
   );
 }
 
