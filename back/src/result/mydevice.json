@@ -1,0 +1,16 @@
+﻿{
+    "male":[
+        {"name":"자켓","image":"https://cdn-icons-png.flaticon.com/512/2784/2784455.png"},
+        {"name":"청자켓","image":"https://cdn-icons-png.flaticon.com/512/1176/1176977.png"},
+        {"name":"니트","image":"https://cdn-icons-png.flaticon.com/512/1685/1685456.png"}, 
+        {"name":"청바지","image":"https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-jeans-clothing-justicon-flat-justicon-1.png"},
+        {"name":"가디건","image":"https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-cardigan-clothes-icongeek26-linear-colour-icongeek26.png"}
+    ],
+    "female":[
+        {"name":"자켓","image":"https://cdn-icons-png.flaticon.com/512/2784/2784455.png"},
+        {"name":"청자켓","image":"https://cdn-icons-png.flaticon.com/512/1176/1176977.png"},
+        {"name":"니트","image":"https://cdn-icons-png.flaticon.com/512/1685/1685456.png"}, 
+        {"name":"청바지","image":"https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-jeans-clothing-justicon-flat-justicon-1.png"},
+        {"name":"스타킹","image":"https://img.icons8.com/officel/16/000000/tights.png"}
+    ]
+}
